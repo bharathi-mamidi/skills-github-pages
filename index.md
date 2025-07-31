@@ -1,4 +1,9 @@
 ---
-title: Welcome to my blog
+title: Welcome to Resume template
 ---
+
+- [ ] Resume created
+- [x] Resume not created yet
+
+
 
